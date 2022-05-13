@@ -1,5 +1,12 @@
 # M3_car-wiper-system
 
+### OBJECTIVE
+
+The aim of the project is to design a wiper control system which automatically controls the wiper according to the rain fall of water.In large cities and industries where supply and distribution tanks are at a largedistance from water control station, it is very difficult situation to monitor the water.
+
+The main objective of this project is through ARM microcontroller to design a wiper control system. The project mainly insists on controlling the motion of wiper based on frequency and time period (in seconds).
+
+
 ### SOFTWARE REQUIRMENTS:
 * STM32CUBEIDE
 * CYGWIN
