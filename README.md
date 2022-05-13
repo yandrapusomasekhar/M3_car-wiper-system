@@ -1,9 +1,9 @@
 # M3_car-wiper-system
 
 
-[![codiga grade](https://api.codiga.io/project/33347/status/svg)
+![codiga grade](https://api.codiga.io/project/33347/status/svg)
 
-[![codiga score](https://api.codiga.io/project/33347/score/svg)
+![codiga score](https://api.codiga.io/project/33347/score/svg)
 
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/1c063671e20f4a60ac21d869782c5bfe)](https://www.codacy.com/gh/yandrapusomasekhar/M3_car-wiper-system/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=yandrapusomasekhar/M3_car-wiper-system&amp;utm_campaign=Badge_Grade)
