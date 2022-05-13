@@ -1,6 +1,8 @@
 # M3_car-wiper-system
 
 
+[![codiga grade](https://api.codiga.io/project/33347/status/svg)
+
 [![codiga score](https://api.codiga.io/project/33347/score/svg)
 
 
