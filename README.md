@@ -10,3 +10,7 @@ Folder             | Description
 4_TestCases      | Contains testplan and procedures
 5_Report        | Contains overall details of project
 6_Output         | Contains output images
+
+
+![CAR_WIPER](https://user-images.githubusercontent.com/101333790/168219117-2c68ded7-6071-4699-a144-f8113d1353a8.png)
+
